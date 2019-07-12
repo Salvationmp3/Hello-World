@@ -1,0 +1,41 @@
+body{
+    background-color: forestgreen;
+}
+div{
+    height: auto;
+    padding: 20px;
+    background-color: aliceblue;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    background-color: forestgreen;
+    color: aliceblue;
+    margin: 0;
+    padding: 5px;
+}
+h3{
+    margin: 0;
+    padding: 0 0px 5px;
+}
+p.im{
+    text-align: center;
+}
+p.footer{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style-type: square;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: forestgreen;
+}
